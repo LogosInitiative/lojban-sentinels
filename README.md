@@ -1,6 +1,6 @@
 # xau / xa'u - Proposal for Sentinels
 
-xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transforms an opening sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel --the current open clause. xau and xa'u are Magic Words.
+xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transforms an opening sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel --the current open clause. xau is a Magic Word.
 
 
 ## Examples
@@ -180,21 +180,6 @@ For every magic word, the interaction with other magic words must be clarified. 
 | zei   | broda zei xau  | zei binds broda with xau                                           | 
 | zei   | xau zei borda  | zei binds xua with broda                                           | 
 | zo    | zo xua         | zo binds with xua                                                  |
-|       |                |                                                                    |
-
-The following table is similar, but covers the interactions with xa'u.
-
-| with  | example        | result                                                             |
-|-------|----------------|--------------------------------------------------------------------|
-| bu    | BE ... xa'u bu | .xa'u .letteral; bu binds with xa'u  **?**                         |
-| si    | xa'u si        | si erases xa'u                                                     |
-| sa    | xa'u sa xa'u   | same as `xa'u si`                                                  |
-| su    | xa'u su        | xa'u gets erased along with the whole discourse                    |
-| li'u  | xa'u li'u      | xa'u is part of the quote                                          |
-| le'u  | xa'u le'u      | xa'u is part of the quote                                          |
-| zei   | broda zei xa'u | zei binds broda with xa'u                                          | 
-| zei   | xa'u zei borda | zei binds xu'a with broda                                          | 
-| zo    | zo xu'a        | zo binds with xu'a                                                 |
 |       |                |                                                                    |
 
 
