@@ -19,71 +19,71 @@ xa'o is a general purpose terminiator that means terminate whatever the current 
 
 ## Transformation table
 
-| current         | becomes           | selma'o  |                                          |
-|-----------------|-------------------|----------|------------------------------------------|
-| be   ... be'o   | be   ... xau be   | BE       | sumti attached to a tanru unit           |
-|                 |                   |          |                                          |
-| coi  ... do'u   | coi  ... xau coi  | COI/DOI  | vocative phrases                         |
-| co'o ... do'u   | co'o ... xau co'o |          |                                          |
-| doi  ... do'u   | doi  ... xau doi  |          |                                          |
-| ju'i ... do'u   | ju'i ... xau ju'i |          |                                          |
-| nu'e ... do'u   | nu'e ... xau nu'i |          |                                          |
-| ta'a ... do'u   | ta'a ... xau ta'a |          |                                          |
-| pe'u ... do'u   | pe'u ... xau pe'u |          |                                          |
-| ki'e ... do'u   | ki'e ... xau ki'e |          |                                          |
-| fi'i ... do'u   | fi'i ... xau fi'i |          |                                          |
-| be'e ... do'u   | be'e ... xau be'e |          |                                          |
-| re'i ... do'u   | re'i ... xau re'i |          |                                          |
-| mu'o ... do'u   | mu'o ... xau mu'o |          |                                          |
-| je'e ... do'u   | je'e ... xau je'e |          |                                          |
-| vi'o ... do'u   | vi'o ... xau vi'o |          |                                          |
-| ke'o ... do'u   | ke'o ... xau ke'o |          |                                          |
-| fe'o ... do'u   | fe'o ... xau fe'o |          |                                          |
-| mi'e ... do'u   | mi'e ... xau me'e |          |                                          |
-|                 |                   |          |                                          |
-| fi'o ... fe'u   | fi'o ... xau fi'o | FIhO     | ad-hoc modal tags                        |
-|                 |                   |          |                                          |
-| tei  ... foi    | tei  ... xau tei  | TEI      | end composite lerfu (not elidable)       |
-|                 |                   |          |                                          |
-| pe   ... ge'u   | pe   ... xau pe   | GOI      | relative phrases                         |
-| po   ... ge'u   | po   ... xau po   |          |                                          |
-| po'e ... ge'u   | po'e ... xau po'e |          |                                          |
-| po'u ... ge'u   | po'u ... xau po'u |          |                                          |
-| ne   ... ge'u   | ne   ... xau ne   |          |                                          |
-| no'u ... ge'u   | no'u ... xau no'u |          |                                          |
-|                 |                   |          |                                          |
-| ke   ... ke'e   | ke   ... xau ke   | KE       | groups of various kinds                  |
-|                 |                   |          |                                          |
-| nu   ... kei    | nu   ... xau nu   | NU       | abstraction bridi                        |
-| mu'e ... kei    | mu'e ... xau mu'e |          |                                          |
-| pu'u ... kei    | pu'u ... xau pu'u |          |                                          |
-| zu'o ... kei    | zu'o ... xau zu'o |          |                                          |
-| za'i ... kei    | za'i ... xau za'i |          |                                          |
-| ka   ... kei    | ka   ... xau ka   |          |                                          |
-| ni   ... kei    | ni   ... xau ni   |          |                                          |
-| jei  ... kei    | jei  ... xau jei  |          |                                          |
-| du'u ... kei    | du'u ... xau du'u |          |                                          |
-| li'i ... kei    | li'i ... xau li'i |          |                                          |
-| si'o ... kei    | si'o ... xau si'o |          |                                          |
-| su'u ... kei    | su'u ... xau su'u |          |                                          |
-|                 |                   |          |                                          |
-| le   ... ku     | le   ... xau le   | LE/LA    | description sumti                        |
-| la   ... ku     | la   ... xau la   |          |                                          |
-| lo   ... ku     | lo   ... xau lo   |          |                                          |
-| lei  ... ku     | lei  ... xau lei  |          |                                          |
-| loi  ... ku     | loi  ... xau loi  |          |                                          |
-| lai  ... ku     | lai  ... xau lai  |          |                                          |
-| le'i ... ku     | le'i ... xau le'i |          |                                          |
-| lo'i ... ku     | lo'i ... xau lo'i |          |                                          |
-| la'i ... ku     | la'i ... xau la'i |          |                                          |
-| lo'e ... ku     | lo'e ... xau lo'e |          |                                          |
-| le'e ... ku     | le'e ... xau le'e |          |                                          |
-|                 |                   |          |                                          |
-| pe'o ... ku'e   | pe'o ... xau pe'o | PEhO     | forethought mekso                        |
-|                 |                   |          |                                          |
-| noi  ... ku'o   | noi  ... xau noi  | NOI      | relative clauses                         |
-| poi  ... ku'o   | poi  ... xau poi  |          |                                          |
-| voi  ... ku'o   | voi  ... xau voi  |          |                                          |
+| current         | becomes               | selma'o  |                                       |
+|-----------------|-----------------------|----------|---------------------------------------|
+| be   ... be'o   | be   ... xau be       | BE       | sumti attached to a tanru unit        |
+|                 |                       |          |                                       |
+| coi  ... do'u   | coi  ... xau coi      | COI/DOI  | vocative phrases                      |
+| co'o ... do'u   | co'o ... xau co'o     |          |                                       |
+| doi  ... do'u   | doi  ... xau doi      |          |                                       |
+| ju'i ... do'u   | ju'i ... xau ju'i     |          |                                       |
+| nu'e ... do'u   | nu'e ... xau nu'i     |          |                                       |
+| ta'a ... do'u   | ta'a ... xau ta'a     |          |                                       |
+| pe'u ... do'u   | pe'u ... xau pe'u     |          |                                       |
+| ki'e ... do'u   | ki'e ... xau ki'e     |          |                                       |
+| fi'i ... do'u   | fi'i ... xau fi'i     |          |                                       |
+| be'e ... do'u   | be'e ... xau be'e     |          |                                       |
+| re'i ... do'u   | re'i ... xau re'i     |          |                                       |
+| mu'o ... do'u   | mu'o ... xau mu'o     |          |                                       |
+| je'e ... do'u   | je'e ... xau je'e     |          |                                       |
+| vi'o ... do'u   | vi'o ... xau vi'o     |          |                                       |
+| ke'o ... do'u   | ke'o ... xau ke'o     |          |                                       |
+| fe'o ... do'u   | fe'o ... xau fe'o     |          |                                       |
+| mi'e ... do'u   | mi'e ... xau me'e     |          |                                       |
+|                 |                       |          |                                       |
+| fi'o ... fe'u   | fi'o ... xau fi'o     | FIhO     | ad-hoc modal tags                     |
+|                 |                       |          |                                       |
+| tei  ... foi    | tei  ... xau tei      | TEI      | end composite lerfu (not elidable)    |
+|                 |                       |          |                                       |
+| pe   ... ge'u   | pe   ... xau pe       | GOI      | relative phrases                      |
+| po   ... ge'u   | po   ... xau po       |          |                                       |
+| po'e ... ge'u   | po'e ... xau po'e     |          |                                       |
+| po'u ... ge'u   | po'u ... xau po'u     |          |                                       |
+| ne   ... ge'u   | ne   ... xau ne       |          |                                       |
+| no'u ... ge'u   | no'u ... xau no'u     |          |                                       |
+|                 |                       |          |                                       |
+| ke   ... ke'e   | ke   ... xau ke       | KE       | groups of various kinds               |
+|                 |                       |          |                                       |
+| nu   ... kei    | nu   ... xau nu       | NU       | abstraction bridi                     |
+| mu'e ... kei    | mu'e ... xau mu'e     |          |                                       |
+| pu'u ... kei    | pu'u ... xau pu'u     |          |                                       |
+| zu'o ... kei    | zu'o ... xau zu'o     |          |                                       |
+| za'i ... kei    | za'i ... xau za'i     |          |                                       |
+| ka   ... kei    | ka   ... xau ka       |          |                                       |
+| ni   ... kei    | ni   ... xau ni       |          |                                       |
+| jei  ... kei    | jei  ... xau jei      |          |                                       |
+| du'u ... kei    | du'u ... xau du'u     |          |                                       |
+| li'i ... kei    | li'i ... xau li'i     |          |                                       |
+| si'o ... kei    | si'o ... xau si'o     |          |                                       |
+| su'u ... kei    | su'u ... xau su'u     |          |                                       |
+|                 |                       |          |                                       |
+| le   ... ku     | le   ... xau le       | LE/LA    | description sumti                     |
+| la   ... ku     | la   ... xau la       |          |                                       |
+| lo   ... ku     | lo   ... xau lo       |          |                                       |
+| lei  ... ku     | lei  ... xau lei      |          |                                       |
+| loi  ... ku     | loi  ... xau loi      |          |                                       |
+| lai  ... ku     | lai  ... xau lai      |          |                                       |
+| le'i ... ku     | le'i ... xau le'i     |          |                                       |
+| lo'i ... ku     | lo'i ... xau lo'i     |          |                                       |
+| la'i ... ku     | la'i ... xau la'i     |          |                                       |
+| lo'e ... ku     | lo'e ... xau lo'e     |          |                                       |
+| le'e ... ku     | le'e ... xau le'e     |          |                                       |
+|                 |                       |          |                                       |
+| pe'o ... ku'e   | pe'o ... xau pe'o     | PEhO     | forethought mekso                     |
+|                 |                       |          |                                       |
+| noi  ... ku'o   | noi  ... xau noi      | NOI      | relative clauses                      |
+| poi  ... ku'o   | poi  ... xau poi      |          |                                       |
+| voi  ... ku'o   | voi  ... xau voi      |          |                                       |
 |                 |                       |          |                                       |
 | lu   ... li'u   | lu   ... xau lu       | LU       | grammatical quotations (not elidable) |
 |                 |                       |          |                                       |
@@ -152,7 +152,7 @@ For every magic word, the interaction with all other magic words is defined. Thi
 | with  | example       | result                                                             |
 |-------|---------------|--------------------------------------------------------------------|
 |       | xau           | ungrammatical; xau must have an sentinel to terminate              |
-| xau   | xau xau       | ungrammatical; xau is not a sentinel itself (*)                    |
+| xau   | xau xau       | ungrammatical unless in lo'u quote                                 |
 | bu    | xau bu        | .xau. letteral; bu binds with xau, rather than xau binding with bu |
 | fa'o  | xau fa'o      | fa'o terminates speech regarless of xau                            |
 | si    | xau si        | si erases xau                                                      |
@@ -167,41 +167,37 @@ For every magic word, the interaction with all other magic words is defined. Thi
 |       |               |                                                                    |
 
 
-## Questions about interaction with other Magic Words
+## Questions and Answers
 
-Q: in {zo bu}, zo binds with bu. How do I make bu bind with zo to create a zo letteral?
+Q: How can I use `xau` at the end of a `lo'u` quote?
 
-A: {zo zo bu} is the closest approximation, though you could argue that the meaning of zo is lost before bu binds.
-
-Q: Why is {zo .abu} [zo a) bu)? Wouldn't it make sense to allow zo to quote selma'o BY?
-
-A: While this simple case look compelling, {bu} can also be used on lo'u ... le'u quotes. That means you could get bu phrases that are quite lengthy: {lo'u broda brode brodi brodo brodu le'u bu}. One of the appealing attributes of {zo} is the speed and simplicity it offers for quoting single words. If {zo} could quote {bu}, the listener would have to wait until the end of this statement: {zo lo'u broda le'u bu} to realize that more than one word (i.e., a pseudo-word) was being quoted. By not allowing pseudo-words to be quoted with {zo}, the listener is relieved of the burden of waiting for a pseudo-word to be fully spoken.
-
-Q: in {za sa}, zo binds with sa. How do I restart my zo utterance with sa?
-
-A: You must complete the zo quote and then erase the created pseudo-word: {zo broda sa zo brode}. {sa zo} erases the pseudo-word {zo broda} and replaces it with {zo}, after which the next word will be quoted. {zo broda sa zo brode} is the same as {zo brode}.
-
-Q: in {zo si}, zo binds with si. How do I erase zo with si?
-
-A: You must complete the zo quote and then erase the created pseudo-word: {zo si si}. Note that you can quote any word with zo, {zo broda si} has the same effect.
-
-Q: {zo zo broda} does not quote {zo broda}. How do I quote a {zo broda} construct?
-
-A: Use lu ... li'u to quote Lojban text longer than a single word.
+A: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.
 
 
-##
+Q: What about using `xau` at the end of a `lu` quote?
+
+A: I think that would be non-grammatical so wouldn't be allowed in any case.
+
+
+Feel free to ask additional questions.
+
+
+## Deprecation of Old Terminators
+
+Since the sentinel marker makes the old terminators unneccessary, it is expected that over time they will fall into disuse. While not something that will happen overnight, eventually they can be freed up for other uses --or even just left unused to provide some phonetic gap in the lexicon. Certain terminators already get very little use, so obviously those are the most likely candiates to be transitioned. But others, such as `li'u` and `le'u` might never be because they are used more regularly.
 
 
 ## BNF 
 
-KEhE-pre <- pre-clause KEhE spaces?
+The BNF for example
 
-to 
-KEhE-pre <- pre-clause (KEhE | XAU KE)  spaces?
+    KEhE-pre <- pre-clause KEhE spaces?
+
+Becomes
+
+    KEhE-pre <- pre-clause (KEhE | XAU KE) spaces?
 
 
-## Notes
+## Speical Thanks
 
-Going into some details, let's call your cmavo {xau} for discussion ({xo} is taken). {vau} and arguably {boi} do not match your paradigm. {le'u} looks like it should, but it really doesn't, because if {lo'u xau} terminates {lo'u} then you can't quote {lo'u xau} to explain what it means. (By contrast, you can quote {le'u} using {zo} and can quote {zo} using {lo'u}/{le'u}, which means there is syntax available for defining these in Lojban.) The interaction with {lu} would be intelligible but counterintuitive and possibly not formalizable: {lu ... lu xau} appears to start a second quote and then, doesn't. And finally you would need to specify how exactly {xau} interacts with {si} (is {ke xau} one word or two?). Everything else would probably work out.
 
