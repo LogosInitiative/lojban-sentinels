@@ -13,9 +13,9 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 .i ti poi ke'a prenu xau poi cu barda<br/>
 .i ti poi ke'a prenu xa'u cu barda
 
-.i tu voi mi dijca le nu mi ponse ke'a [kei] ku'o cu bloti<br/>
-.i tu voi mi dijca le nu mi ponse ke'a [kei] xau voi cu bloti<br/>
-.i tu voi mi dijca le nu mi ponse ke'a xa'u xa'u cu bloti
+.i tu voi mi djica le nu mi ponse ke'a [kei] ku'o cu bloti<br/>
+.i tu voi mi djica le nu mi ponse ke'a [kei] xau voi cu bloti<br/>
+.i tu voi mi djica le nu mi ponse ke'a kei xa'u cu bloti
 
 
 ## Advantages/Disadvantages
@@ -94,7 +94,7 @@ le'e ... ku         le'e ... xau le'e
 
 pe'o ... ku'e       pe'o ... xau pe'o       PEhO        forethought mekso
 
-su'i ... ku'e       su'i ... xau su'i       VUhU        mesko operators (polish notation)
+su'i ... ku'e       su'i ... xau su'i       VUhU        mekso operators (polish notation)
 pi'i ... ku'e       pi'i ... xau pi'i
 vu'u ... ku'e       vu'u ... xau vu'u
 fe'i ... ku'e       fe'i ... xau fe'i
@@ -226,6 +226,5 @@ Feel free to ask additional questions.
 Special thanks to Latro, without whom I would had the first clue of where to even begin.
 
 [See discussion](https://groups.google.com/forum/#!topic/lojban/yt2H55qG48Q)
-
 
 
