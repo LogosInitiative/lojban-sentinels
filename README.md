@@ -205,13 +205,11 @@ Becomes
 
 **A**: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.
 
-<br/>
 
 **Q**: What about using `xau` at the end of a `lu` quote?
 
 **A**: I think that would be non-grammatical so wouldn't be allowed in any case.
 
-<br/>
 
 Feel free to ask additional questions.
 
