@@ -173,7 +173,7 @@ For every magic word, the interaction with other magic words must be clarified. 
 | fa'o  | xau fa'o       | fa'o terminates speech regardless of xau                           |
 | si    | xau si         | si erases xau                                                      |
 | si    | xau BE si      | si erases both xau and BE --they are treated as one word           |
-| sa    | xau sa xau     | same as `xau si`                                                   |
+| sa    | xau sa xau     | same as "xau si"                                                   |
 | su    | xau su         | xau gets erased along with the whole discourse                     |
 | li'u  | xau li'u       | xau is part of the quote                                           |
 | le'u  | xau le'u       | xau is part of the quote                                           |
@@ -188,7 +188,7 @@ For every magic word, the interaction with other magic words must be clarified. 
 Since these sentinel markers make the old terminators unnecessary, it is expected that over time they wwould fall into disuse. While not something that would happen overnight, eventually they could be freed up for other uses --or even just left unused to provide some *phonological gap* in the lexicon. Certain terminators already get very little use, so obviously those are the most likely to transition. Others, such as `li'u` and `le'u` might never fall into disuse because they are used more regularly.
 
 
-## BNF 
+## BNF Expression
 
 Changes to BNF are fairly straight-forward. For example,
 
