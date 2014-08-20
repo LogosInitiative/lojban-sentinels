@@ -15,7 +15,7 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 .i tu voi mi djica le nu mi ponse ke'a [kei] ku'o cu bloti<br/>
 .i tu voi mi djica le nu mi ponse ke'a [kei] xau voi cu bloti<br/>
-.i tu voi mi djica le nu mi ponse ke'a kei xa'u cu bloti
+.i tu voi mi djica le nu mi ponse ke'a xa'u xa'u cu bloti
 
 
 ## Advantages/Disadvantages
