@@ -1,6 +1,7 @@
-# xau / xa'u
+# xau / xa'u - Proposal for Sentinels
 
-xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel, i.e. the current open clause. xau and xa'u are Magic Words.
+xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transforms an opening sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel --the current open clause. xau and xa'u are Magic Words.
+
 
 ## Examples
 
@@ -11,17 +12,20 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
 
 ## Advantages/Disadvantages
 
+* :-1: xau is slightly longer, adding an additional syllable.
+* :-1: Not an insignificant change to the language.
+
 * :+1: Much easier to learn and remember.
-* :+1: Provides potentially helpful redundancy in utterances.
-* :-1: Slightly longer, adding an additional syllable.
-* :-1: Significant, albeit relatively minor, change to the language.
-* :+1: Most are usually elidable, so downsides are fairly mitigated.
+* :+1: xau provides potentially helpful redundancy in utterances.
+* :+1: Most terminators are elidable, so downsides are well mitigated.
 
 
 ## Transformation table
 
+In the transforms table below, wherever `xau BE` is used (where BE is any valid sentinel), `xa'u` can be used in it's place, unless otherwise indicated.
+
 ```
-    current             becomes                   selma'o     
+    current             becomes                 selma'o     
     ------------------  ---------------------   ----------  -----------------------------------
     be   ... be'o       be   ... xau be         BE          sumti attached to a tanru unit
 
@@ -69,17 +73,17 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     si'o ... kei        si'o ... xau si'o
     su'u ... kei        su'u ... xau su'u
 
-    le   ... ku`        le   ... xau le         LE/LA       description sumti
-    la   ... ku`        la   ... xau la
-    lo   ... ku`        lo   ... xau lo
-    lei  ... ku`        lei  ... xau lei
-    loi  ... ku`        loi  ... xau loi
-    lai  ... ku`        lai  ... xau lai
-    le'i ... ku`        le'i ... xau le'i
-    lo'i ... ku`        lo'i ... xau lo'i
-    la'i ... ku`        la'i ... xau la'i
-    lo'e ... ku`        lo'e ... xau lo'e
-    le'e ... ku`        le'e ... xau le'e
+    le   ... ku         le   ... xau le         LE/LA       description sumti
+    la   ... ku         la   ... xau la
+    lo   ... ku         lo   ... xau lo
+    lei  ... ku         lei  ... xau lei
+    loi  ... ku         loi  ... xau loi
+    lai  ... ku         lai  ... xau lai
+    le'i ... ku         le'i ... xau le'i
+    lo'i ... ku         lo'i ... xau lo'i
+    la'i ... ku         la'i ... xau la'i
+    lo'e ... ku         lo'e ... xau lo'e
+    le'e ... ku         le'e ... xau le'e
 
     pe'o ... ku'e       pe'o ... xau pe'o       PEhO        forethought mekso
 
@@ -161,47 +165,47 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
 
 For every magic word, the interaction with other magic words must be clarified. This table covers the interactions of xau with other magic words, both alone and within their own grammatical contexts. Unless otherwise listed, either below or in the prior table, xau + word is considered ungrammatical. Note that in the table below, `BE` represents any of the sentinels from the above table (`be` thru `vei`).
 
-| with  | example       | result                                                             |
-|-------|---------------|--------------------------------------------------------------------|
-|       | xau           | ungrammatical; xau must have an sentinel to terminate              |
-| xau   | xau xau       | ungrammatical unless in lo'u quote                                 |
-| bu    | xau bu        | .xau. letteral; bu binds with xau, rather than xau binding with bu |
-| fa'o  | xau fa'o      | fa'o terminates speech regardless of xau                            |
-| si    | xau si        | si erases xau                                                      |
-| si    | xau BE si     | si erases both xau and BE --they are treated as one word           |
-| sa    | xau sa xau    | same as `xau si`                                                   |
-| su    | xau su        | xau gets erased along with the whole discourse                     |
-| li'u  | xau li'u      | xau is part of the quote                                           |
-| le'u  | xau le'u      | xau is part of the quote                                           |
-| zei   | broda zei xau | zei binds broda with xau                                           | 
-| zei   | xau zei borda | zei binds xua with broda                                           | 
-| zo    | zo xua        | zo binds with xua                                                  |
-|       |               |                                                                    |
+| with  | example        | result                                                             |
+|-------|----------------|--------------------------------------------------------------------|
+|       | xau            | ungrammatical; xau must have an sentinel after it to terminate     |
+| xau   | xau xau        | ungrammatical unless in lo'u quote                                 |
+| bu    | xau bu         | .xau. letteral; bu binds with xau, not xau with bu                 |
+| fa'o  | xau fa'o       | fa'o terminates speech regardless of xau                           |
+| si    | xau si         | si erases xau                                                      |
+| si    | xau BE si      | si erases both xau and BE --they are treated as one word           |
+| sa    | xau sa xau     | same as `xau si`                                                   |
+| su    | xau su         | xau gets erased along with the whole discourse                     |
+| li'u  | xau li'u       | xau is part of the quote                                           |
+| le'u  | xau le'u       | xau is part of the quote                                           |
+| zei   | broda zei xau  | zei binds broda with xau                                           | 
+| zei   | xau zei borda  | zei binds xua with broda                                           | 
+| zo    | zo xua         | zo binds with xua                                                  |
+|       |                |                                                                    |
+
+The following table is similar, but covers the interactions with xa'u.
+
+| with  | example        | result                                                             |
+|-------|----------------|--------------------------------------------------------------------|
+| bu    | BE ... xa'u bu | .xa'u .letteral; bu binds with xa'u  **?**                         |
+| si    | xa'u si        | si erases xa'u                                                     |
+| sa    | xa'u sa xa'u   | same as `xa'u si`                                                  |
+| su    | xa'u su        | xa'u gets erased along with the whole discourse                    |
+| li'u  | xa'u li'u      | xa'u is part of the quote                                          |
+| le'u  | xa'u le'u      | xa'u is part of the quote                                          |
+| zei   | broda zei xa'u | zei binds broda with xa'u                                          | 
+| zei   | xa'u zei borda | zei binds xu'a with broda                                          | 
+| zo    | zo xu'a        | zo binds with xu'a                                                 |
+|       |                |                                                                    |
 
 
-## Questions and Answers
+## Fate of Old Terminators
 
-Q: How can I use `xau` at the end of a `lo'u` quote?
-
-A: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.
-
-
-Q: What about using `xau` at the end of a `lu` quote?
-
-A: I think that would be non-grammatical so wouldn't be allowed in any case.
-
-
-Feel free to ask additional questions.
-
-
-## Deprecation of Old Terminators
-
-Since the sentinel marker makes the old terminators unnecessary, it is expected that over time they will fall into disuse. While not something that will happen overnight, eventually they can be freed up for other uses --or even just left unused to provide some phonetic gap in the lexicon. Certain terminators already get very little use, so obviously those are the most likely candidates to be transitioned. But others, such as `li'u` and `le'u` might never be because they are used more regularly.
+Since these sentinel markers make the old terminators unnecessary, it is expected that over time they wwould fall into disuse. While not something that would happen overnight, eventually they could be freed up for other uses --or even just left unused to provide some *phonological gap* in the lexicon. Certain terminators already get very little use, so obviously those are the most likely to transition. Others, such as `li'u` and `le'u` might never fall into disuse because they are used more regularly.
 
 
 ## BNF 
 
-The BNF for example
+Changes to BNF are fairly straight-forward. For example,
 
     KEhE-pre <- pre-clause KEhE spaces?
 
@@ -210,9 +214,26 @@ Becomes
     KEhE-pre <- pre-clause (KEhE | XAU KE) spaces?
 
 
+## Questions and Answers
+
+**Q**: How can I use `xau` at the end of a `lo'u` quote?
+
+**A**: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.
+
+<br/>
+
+**Q**: What about using `xau` at the end of a `lu` quote?
+
+**A**: I think that would be non-grammatical so wouldn't be allowed in any case.
+
+<br/>
+
+Feel free to ask additional questions.
+
+
 ## Speical Thanks
 
-Special thanks to Latro, without whom I would not had known where to even begin on this.
+Special thanks to Latro, without whom I would had the first clue of where to even begin.
 
 [See discussion](https://groups.google.com/forum/#!topic/lojban/yt2H55qG48Q)
 
