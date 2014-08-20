@@ -7,7 +7,7 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 .i mi cusku lu mi'e djan. li'u<br/>
 .i mi cusku lu mi'e djan. xau lu<br/>
-.i mi cusku lu mi'e djan. xa'u
+.i mi cusku lu mi'e djan. xa'u xa'u
 
 .i ti poi ke'a prenu ku'o cu barda<br/>
 .i ti poi ke'a prenu xau poi cu barda<br/>
@@ -203,7 +203,7 @@ Changes to BNF are fairly straight-forward. For example,
 
 Becomes
 
-    KEhE-pre <- pre-clause (KEhE | XAU KE) spaces?
+    KEhE-pre <- pre-clause (KEhE | XAhU | XAU KE) spaces?
 
 
 ## Questions and Answers
