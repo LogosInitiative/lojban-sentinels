@@ -14,8 +14,6 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 * :-1: xau is slightly longer, adding an additional syllable.
 * :-1: Not an insignificant change to the language.
-
-
 * :+1: Much easier to learn and remember.
 * :+1: xau provides potentially helpful redundancy in utterances.
 * :+1: Most terminators are elidable, so downsides are well mitigated.
