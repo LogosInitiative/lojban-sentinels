@@ -185,7 +185,7 @@ For every magic word, the interaction with other magic words must be clarified. 
 
 ## Fate of Old Terminators
 
-Since these sentinel markers make the old terminators unnecessary, it is expected that over time they wwould fall into disuse. While not something that would happen overnight, eventually they could be freed up for other uses --or even just left unused to provide some *phonological gap* in the lexicon. Certain terminators already get very little use, so obviously those are the most likely to transition. Others, such as `li'u` and `le'u` might never fall into disuse because they are used more regularly.
+Since these sentinel markers make the old terminators unnecessary, it is expected that over time they would fall into disuse. While not something that would happen overnight, eventually they could be freed up for other uses --or even just left unused to provide some *phonological gap* in the lexicon. Certain terminators already get very little use, so those are the most likely to transition sooner. Others, such as `li'u` and `le'u` might never fall into disuse because they are used more regularly.
 
 
 ## BNF Expression
