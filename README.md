@@ -1,29 +1,31 @@
-# xau / xa'o
+# xau / xa'u
 
-xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it's terminator. xau is one of the Magic Words. xa'o is a general purpose terminiator that means terminate the most recent beginning sentinel, i.e. the current clause.
-
+xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel, i.e. the current open clause. xau and xa'u are Magic Words.
 
 ## Examples
 
-> .i go do nunpreti zo zo gi do djuno lo du'u pilno zo zo
+> .i ti poi ke'a prenu xau poi cu barda
+
+> .i ti poi ke'a prenu xa'u cu barda
 
 
 ## Advantages/Disadvantages
 
-* Much easier to lean and remember.
-* Provides potentially helpful redundancy.
-* Slighly longer, adding an additional syllable.
-* Most are usually elidable, so extra syllable not as significant.
+* :+1: Much easier to learn and remember.
+* :+1: Provides potentially helpful redundancy in utterances.
+* :-1: Slightly longer, adding an additional syllable.
+* :-1: Significant, albeit relatively minor, change to the language.
+* :+1: Most are usually elidable, so downsides are fairly mitigated.
 
 
 ## Transformation table
 
 ```
     current             becomes                   selma'o     
-    ------------------  -----------------------   ----------  -------------------------------------
-    be   ... be'o       be   ... xau be           BE          sumti attached to a tanru unit
+    ------------------  ---------------------   ----------  -----------------------------------
+    be   ... be'o       be   ... xau be         BE          sumti attached to a tanru unit
 
-    coi  ... do'u       coi  ... xau coi          COI/DOI     vocative phrases
+    coi  ... do'u       coi  ... xau coi        COI/DOI     vocative phrases
     co'o ... do'u       co'o ... xau co'o
     doi  ... do'u       doi  ... xau doi      
     ju'i ... do'u       ju'i ... xau ju'i
@@ -41,20 +43,20 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     fe'o ... do'u       fe'o ... xau fe'o
     mi'e ... do'u       mi'e ... xau me'e
 
-    fi'o ... fe'u       fi'o ... xau fi'o         FIhO        ad-hoc modal tags
+    fi'o ... fe'u       fi'o ... xau fi'o       FIhO        ad-hoc modal tags
 
-    tei  ... foi        tei  ... xau tei          TEI         end composite lerfu (not elidable)
+    tei  ... foi        tei  ... xau tei        TEI         end composite lerfu (not elidable)
 
-    pe   ... ge'u       pe   ... xau pe           GOI         relative phrases
+    pe   ... ge'u       pe   ... xau pe         GOI         relative phrases
     po   ... ge'u       po   ... xau po
     po'e ... ge'u       po'e ... xau po'e
     po'u ... ge'u       po'u ... xau po'u
     ne   ... ge'u       ne   ... xau ne
     no'u ... ge'u       no'u ... xau no'u
 
-    ke   ... ke'e       ke   ... xau ke           KE          groups of various kinds
+    ke   ... ke'e       ke   ... xau ke         KE          groups of various kinds
 
-    nu   ... kei        nu   ... xau nu           NU          abstraction bridi
+    nu   ... kei        nu   ... xau nu         NU          abstraction bridi
     mu'e ... kei        mu'e ... xau mu'e
     pu'u ... kei        pu'u ... xau pu'u
     zu'o ... kei        zu'o ... xau zu'o
@@ -67,7 +69,7 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     si'o ... kei        si'o ... xau si'o
     su'u ... kei        su'u ... xau su'u
 
-    le   ... ku`        le   ... xau le           LE/LA       description sumti
+    le   ... ku`        le   ... xau le         LE/LA       description sumti
     la   ... ku`        la   ... xau la
     lo   ... ku`        lo   ... xau lo
     lei  ... ku`        lei  ... xau lei
@@ -79,9 +81,9 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     lo'e ... ku`        lo'e ... xau lo'e
     le'e ... ku`        le'e ... xau le'e
 
-    pe'o ... ku'e       pe'o ... xau pe'o         PEhO        forethought mekso
+    pe'o ... ku'e       pe'o ... xau pe'o       PEhO        forethought mekso
 
-    su'i ... ku'e       su'i ... xau su'i         VUhU        mesko operators (polish notation)
+    su'i ... ku'e       su'i ... xau su'i       VUhU        mesko operators (polish notation)
     pi'i ... ku'e       pi'i ... xau pi'i
     vu'u ... ku'e       vu'u ... xau vu'u
     fe'i ... ku'e       fe'i ... xau fe'i
@@ -104,17 +106,17 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     va'a ... ku'e       va'a ... xau va'a
     re'a ... ku'e       re'a ... xau re'a
 
-    noi  ... ku'o       noi  ... xau noi          NOI         relative clauses
+    noi  ... ku'o       noi  ... xau noi        NOI         relative clauses
     poi  ... ku'o       poi  ... xau poi
     voi  ... ku'o       voi  ... xau voi
 
-    lu   ... li'u       lu   ... xau lu           LU          grammatical quotations (not elidable)
+    lu   ... li'u       lu   ... xau lu         LU          grammatical quotations (not elidable)
 
-    lo'u ... le'u       lo'u ... xau le'u         LOhU        non-grammatical quotations
+    lo'u ... le'u       lo'u ... xau le'u       LOhU        non-grammatical quotations
 
-    li   ... lo'o       li   ... xau li           LI          number sumti
+    li   ... lo'o       li   ... xau li         LI          number sumti
 
-    la'e ... lu'u       la'e ... xau la'e         LAhE        sumti qualifiers
+    la'e ... lu'u       la'e ... xau la'e       LAhE        sumti qualifiers
     lu'e ... lu'u       lu'e ... xau lu'e
     tu'a ... lu'u       tu'a ... xau tu'a
     lu'a ... lu'u       lu'a ... xau lu'a
@@ -122,30 +124,30 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
     lu'o ... lu'u       lu'o ... xau lu'o
     vu'i ... lu'u       vu'i ... xau vu'i
 
-    na'ebo ... lu'u     na'ebo ... xau na'e       NAhE+BO
+    na'ebo ... lu'u     na'ebo ... xau na'e     NAhE+BO
     to'ebo ... lu'u     to'ebo ... xau to'e
     no'ebo ... lu'u     no'ebo ... xau no'e
     je'ebo ... lu'u     je'ebo ... xau je'e
 
-    me   ... me'u       me   ... xau me'u         ME          tanru units formed from sumti
+    me   ... me'u       me   ... xau me'u       ME          tanru units formed from sumti
 
-    nu'i ... nu'u       nu'i ... xau nu'i         NUhI        forethought termsets
+    nu'i ... nu'u       nu'i ... xau nu'i       NUhI        forethought termsets
 
-    soi  ... se'u       soi  ... xau soi          SOI         reciprocity
-    sei  ... se'u       sei  ... xau sei          SEI         metalinguistic insertions
+    soi  ... se'u       soi  ... xau soi        SOI         reciprocity
+    sei  ... se'u       sei  ... xau sei        SEI         metalinguistic insertions
 
-    jo'i ... te'u       jo'i ... xau jo'i         JOhI        mekso conversion constructs
-    na'u ... te'u       na'u ... xau na'u         NAhU
-    ni'e ... te'u       ni'e ... xau ni'e         NIhE
-    mo'e ... te'u       mo'e ... xau mo'e         MOhE
-    ma'o ... te'u       ma'o ... xau ma'o         MAhO 
+    jo'i ... te'u       jo'i ... xau jo'i       JOhI        mekso conversion constructs
+    na'u ... te'u       na'u ... xau na'u       NAhU
+    ni'e ... te'u       ni'e ... xau ni'e       NIhE
+    mo'e ... te'u       mo'e ... xau mo'e       MOhE
+    ma'o ... te'u       ma'o ... xau ma'o       MAhO 
 
-    to   ... toi        to   ... xau to           TO          parenthetical remarks
+    to   ... toi        to   ... xau to         TO          parenthetical remarks
     to'i ... toi        to'i ... xau to'i
 
-    tu'e ... tu'u       tu'e ... xau tu'e         TUhE        multiple sentences or paragraphs
+    tu'e ... tu'u       tu'e ... xau tu'e       TUhE        multiple sentences or paragraphs
 
-    vei  ... ve'o       vei  ... xau vei          VEI         mekso parenthesis
+    vei  ... ve'o       vei  ... xau vei        VEI         mekso parenthesis
 ```
 
 ## Non-applicable terminators
@@ -157,14 +159,14 @@ xau is the only word in selma'o XAU. xau transforms a beginning sentinel into it
 
 ## Interaction with other Magic Words
 
-For every magic word, the interaction with other magic words must be clarified. This table covers thr interactions of xau with other magic words, both alone and within their own grammatical contexts. Unless otherwise listed, either below or in the prior table, xau + word is considered ungrammatical. Note that in the table below, `BE` represents any of the sentinals from the above table (`be` thru `vei`).
+For every magic word, the interaction with other magic words must be clarified. This table covers the interactions of xau with other magic words, both alone and within their own grammatical contexts. Unless otherwise listed, either below or in the prior table, xau + word is considered ungrammatical. Note that in the table below, `BE` represents any of the sentinels from the above table (`be` thru `vei`).
 
 | with  | example       | result                                                             |
 |-------|---------------|--------------------------------------------------------------------|
 |       | xau           | ungrammatical; xau must have an sentinel to terminate              |
 | xau   | xau xau       | ungrammatical unless in lo'u quote                                 |
 | bu    | xau bu        | .xau. letteral; bu binds with xau, rather than xau binding with bu |
-| fa'o  | xau fa'o      | fa'o terminates speech regarless of xau                            |
+| fa'o  | xau fa'o      | fa'o terminates speech regardless of xau                            |
 | si    | xau si        | si erases xau                                                      |
 | si    | xau BE si     | si erases both xau and BE --they are treated as one word           |
 | sa    | xau sa xau    | same as `xau si`                                                   |
@@ -194,7 +196,7 @@ Feel free to ask additional questions.
 
 ## Deprecation of Old Terminators
 
-Since the sentinel marker makes the old terminators unneccessary, it is expected that over time they will fall into disuse. While not something that will happen overnight, eventually they can be freed up for other uses --or even just left unused to provide some phonetic gap in the lexicon. Certain terminators already get very little use, so obviously those are the most likely candiates to be transitioned. But others, such as `li'u` and `le'u` might never be because they are used more regularly.
+Since the sentinel marker makes the old terminators unnecessary, it is expected that over time they will fall into disuse. While not something that will happen overnight, eventually they can be freed up for other uses --or even just left unused to provide some phonetic gap in the lexicon. Certain terminators already get very little use, so obviously those are the most likely candidates to be transitioned. But others, such as `li'u` and `le'u` might never be because they are used more regularly.
 
 
 ## BNF 
@@ -209,5 +211,10 @@ Becomes
 
 
 ## Speical Thanks
+
+Special thanks to Latro, without whom I would not had known where to even begin on this.
+
+[See discussion](https://groups.google.com/forum/#!topic/lojban/yt2H55qG48Q)
+
 
 
