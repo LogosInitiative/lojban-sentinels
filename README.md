@@ -200,14 +200,14 @@ Becomes
 
 ## Questions and Answers
 
-**Q**: How can I use `xau` at the end of a `lo'u` quote?
+**Q: How can I use `xau` at the end of a `lo'u` quote?**
 
-**A**: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.
+*A: Just repeat the `xau`, e.g. `lo'u ... xau xau lo'u`. Of course, you can still use the `le'u` terminator.*
 
 
-**Q**: What about using `xau` at the end of a `lu` quote?
+**Q: What about using `xau` at the end of a `lu` quote?**
 
-**A**: I think that would be non-grammatical so wouldn't be allowed in any case.
+*A: I think that would be non-grammatical so wouldn't be allowed in any case.*
 
 
 Feel free to ask additional questions.
