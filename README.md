@@ -5,6 +5,9 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 ## Examples
 
+.i mi cusku lu mi'e djan. li'u<br/>
+.i mi cusku lu mi'e djan. xau lu<br/>
+.i mi cusku lu mi'e djan. xa'u
 
 .i ti poi ke'a prenu ku'o cu barda<br/>
 .i ti poi ke'a prenu xau poi cu barda<br/>
@@ -12,7 +15,7 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 .i tu voi mi dijca le nu mi ponse ke'a [kei] ku'o cu bloti<br/>
 .i tu voi mi dijca le nu mi ponse ke'a [kei] xau voi cu bloti<br/>
-.i tu voi mi dijca le nu mi ponse ke'a xa'u xa'u cu bloti
+.i tu voi mi dijca le nu mi ponse ke'a kei xa'u cu bloti
 
 
 ## Advantages/Disadvantages
