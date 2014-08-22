@@ -2,16 +2,22 @@
 
 xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transforms an opening sentinel into it's terminator. xa'u is an all-purpose terminator that terminates the most recent sentinel --the current open clause. xau is a Magic Word.
 
+Grammatically, xau converts any cmavo that opens a subordinate clause into it's terminator. To be grammatical the cmavo must, obviously, match. `BE ... xau BE`. But a clause can be closed automatically if a prior cmavo is matched, e.g. `COI ... BE ... xau COI` --both `COI` and `BE` are terminated.
+
 
 ## Examples
 
-.i mi cusku lu mi'e djan. li'u<br/>
-.i mi cusku lu mi'e djan. xau lu<br/>
-.i mi cusku lu mi'e djan. xa'u xa'u
+.i mi bajykla ti soi vo'i se'u ta<br/>
+.i mi bajykla ti soi vo'i xau soi ta<br/>
+.i mi bajykla ti soi vo'i xa'u ta<br/>
 
 .i ti poi ke'a prenu ku'o cu barda<br/>
 .i ti poi ke'a prenu xau poi cu barda<br/>
 .i ti poi ke'a prenu xa'u cu barda
+
+.i mi cusku lu mi'e djan. li'u<br/>
+.i mi cusku lu mi'e djan. xau lu<br/>
+.i mi cusku lu mi'e djan. xa'u xa'u
 
 .i tu voi mi djica le nu mi ponse ke'a [kei] ku'o cu bloti<br/>
 .i tu voi mi djica le nu mi ponse ke'a [kei] xau voi cu bloti<br/>
