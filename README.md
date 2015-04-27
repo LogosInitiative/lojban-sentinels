@@ -4,6 +4,7 @@ xau and xa'u are the only word in selma'o XAU and XAhU, respectively. xau transf
 
 Grammatically, xau converts any cmavo that opens a subordinate clause into it's terminator. To be grammatical the cmavo must, obviously, match. `BE ... xau BE`. But a clause can be closed automatically if a prior cmavo is matched, e.g. `COI ... BE ... xau COI` --both `COI` and `BE` are terminated.
 
+(There could be also be third type, similar to xau, which closes all clauses up to first named sentinel. e.g. call it xao for this example, `COI ... BE ... COI ... xao COI` would close the first occurance of COI and everything in between.)
 
 ## Examples
 
